@@ -1,9 +1,9 @@
 export const translations = {
   ID: {
     hero: {
-      title1: "All Items Can Be Obtained",
-      title2: "By Shopping with JASTIPINAJA",
-      description: "Jastipinaja brings the products you want from various regions directly to your doorstep!"
+      title1: "Semua Barang Bisa Didapatkan",
+      title2: "Dengan Berbelanja di JASTIPINAJA",
+      description: "Jastipinaja menghadirkan produk yang Anda inginkan dari berbagai daerah langsung ke depan pintu Anda!"
     },
     features: {
       title: "Kenapa belanja di JASTIPINAJA?",
