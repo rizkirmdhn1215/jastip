@@ -23,17 +23,6 @@ const staggerChildren = {
   }
 };
 
-const scaleIn = {
-  initial: { scale: 0.8, opacity: 0 },
-  animate: { scale: 1, opacity: 1 }
-} as const;
-
-interface FooterColumn {
-  title: string;
-  links?: string[];
-  content?: string | string[] | JSX.Element;
-}
-
 export default function Home() {
   const { language } = useLanguage();
   const t = translations[language];
