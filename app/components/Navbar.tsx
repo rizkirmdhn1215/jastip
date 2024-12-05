@@ -48,7 +48,7 @@ export default function Navbar() {
               asChild
               className="group inline-flex h-8 w-max items-center justify-center rounded-md px-3 py-1 text-sm font-medium text-white hover:bg-white/10 hover:text-white focus:bg-white/10 focus:text-white focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-white/10 data-[state=open]:bg-white/10"
             >
-              <Link href="#jastip">Jastip</Link>
+              <Link href="/jastiper">Jastip</Link>
             </NavigationMenuLink>
           </NavigationMenuItem>
           <NavigationMenuItem>
